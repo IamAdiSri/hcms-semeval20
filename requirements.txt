@@ -1,0 +1,5 @@
+keras==
+sklearn==
+numpy==
+pandas==
+emoji==
