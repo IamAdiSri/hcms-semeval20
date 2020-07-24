@@ -3,6 +3,8 @@ _[Aditya Srivastava](https://www.github.com/IamAdiSri), [V. Harsha Vardhan](http
 
 This repository holds the code that accompanies our system description paper of the same name as the title.
 
+arXiv preprint can be viewed [here](https://arxiv.org/abs/2007.12076).
+
 ## Task Description
 
 The task description and the accompanying data can be found [here](https://competitions.codalab.org/competitions/20654).
