@@ -3,7 +3,7 @@ _[Aditya Srivastava](https://www.github.com/IamAdiSri), [V. Harsha Vardhan](http
 
 This repository holds the code that accompanies our system description paper of the same name as the title.
 
-arXiv preprint can be viewed [here](https://arxiv.org/abs/2007.12076).
+The preprint can be viewed on [arXiv](https://arxiv.org/abs/2007.12076).
 
 ## Task Description
 
