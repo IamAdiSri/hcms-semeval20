@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+
+train_14k_split_conll.txt
+dev_3k_split_conll.txt
+Hindi_test_unalbelled_conll_updated.txt
+test_labels_hinglish.txt

@@ -15,4 +15,4 @@ Problems involving code-mixed language are often plagued by a lack of resources 
 
 ## Requirements
 
-The code has been written in `Python 3.6.0`. Other requirements have been listed in `requirements.txt`.
+The code has been written in `Python 3.6.9`. Other requirements have been listed in `requirements.txt`.
